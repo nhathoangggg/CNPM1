@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "783444600111",
+    "firebase_url": "https://dkled-e2312-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dkled-e2312",
+    "storage_bucket": "dkled-e2312.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783444600111:android:fcc62435924c0ae3d62dda",
+        "android_client_info": {
+          "package_name": "com.example.testled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1u-5k-SHqckSQGNr8IfbPZy6EXGI5a1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
